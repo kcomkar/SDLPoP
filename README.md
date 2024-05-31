@@ -496,3 +496,4 @@ Tested on OSX 10.9.5, OSX 10.11.2, macOS 10.13 and 10.14.
 1. In the project root directory. Type `./prince` or `./prince full`.
 2. Hit Ctrl+Q to quit.
 "# SDLPoP" 
+"# SDLPoP" 
